@@ -1,4 +1,3 @@
-import Image from "next/image";
 import pic01 from "@/public/pic01.jpg";
 import ImgBgc from "./ImgBgc";
 
@@ -8,9 +7,7 @@ const Intro = () => {
       <header>
         <h1>Paradigm Shift</h1>
         <p>
-          A free responsive site template designed by{" "}
-          <a href="https://twitter.com/ajlkn">@ajlkn</a> /{" "}
-          <a href="https://html5up.net">HTML5 UP</a>
+          A free responsive site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> / <a href="https://html5up.net">HTML5 UP</a>
         </p>
         <ul className="actions">
           <li>
